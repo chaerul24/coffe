@@ -1,16 +1,10 @@
-# coffe
+<h3>Gerai Coffe</h3>
 
-A new Flutter project.
+Fitur dalam aplikasi
+- Map (untuk mencari gerai yang terdekat)
+- Profile
 
-## Getting Started
+Di di buat dengan bahasa flutter
+<img src="https://www.chaerul.biz.id/images/Screenshot_20240301-233213.png" width="50%"/>
+<img src="https://www.chaerul.biz.id/images/Screenshot_20240303-142938.png" width="50%"/>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
